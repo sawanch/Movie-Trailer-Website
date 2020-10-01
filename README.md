@@ -5,8 +5,8 @@ HTML, CSS.
 
 ## What it is and does
 
-A Python program that produces the HTML for a movie website that displays
-a number of movies. Click on a movie poster to play its trailer.
+A Python program that produces the HTML for a movie trailer website that displays
+a number of movie posters. User can click on a movie poster to play its trailer.
 
 ## How to Run Project
 
